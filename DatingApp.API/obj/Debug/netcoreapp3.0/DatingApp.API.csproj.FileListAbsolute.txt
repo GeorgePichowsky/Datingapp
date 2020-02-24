@@ -84,3 +84,11 @@ E:\Sandbox\DatingApp\datingapp.api\obj\Debug\netcoreapp3.0\DatingApp.API.RazorTa
 E:\Sandbox\DatingApp\datingapp.api\obj\Debug\netcoreapp3.0\DatingApp.API.csproj.CopyComplete
 E:\Sandbox\DatingApp\datingapp.api\obj\Debug\netcoreapp3.0\DatingApp.API.dll
 E:\Sandbox\DatingApp\datingapp.api\obj\Debug\netcoreapp3.0\DatingApp.API.pdb
+E:\Sandbox\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+E:\Sandbox\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Sandbox\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Logging.dll
+E:\Sandbox\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.dll
+E:\Sandbox\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Sandbox\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Tokens.dll
+E:\Sandbox\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+E:\Sandbox\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
